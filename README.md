@@ -1,2 +1,3 @@
 # hello-world
-Learning
+Hi Humans and other species
+Marek here, learnign about GitHub
